@@ -9,7 +9,7 @@ namespace Game_Project.Concrete
     {
         public bool IsCheckPlayer()
         {
-            return true;
+            return true ;
         }
     }
 }
