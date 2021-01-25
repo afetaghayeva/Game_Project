@@ -9,5 +9,6 @@ namespace Game_Project.Entities
     {
         public int Id { get; set; }
         public string GameName { get; set; }
+        public decimal Price { get; set; }
     }
 }

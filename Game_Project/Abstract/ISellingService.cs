@@ -7,6 +7,6 @@ namespace Game_Project.Abstract
 {
     interface ISellingService
     {
-        void Buy(Player player);
+        void Buy(Player player,Game game,Campaign campaign=null);
     }
 }

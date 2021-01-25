@@ -9,5 +9,6 @@ namespace Game_Project.Entities
     {
         public int Id { get; set; }
         public string CampaignName { get; set; }
+        public int Percent { get; set; }
     }
 }
